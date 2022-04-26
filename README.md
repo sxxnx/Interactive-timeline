@@ -1,4 +1,4 @@
-# D3ITL
+# Interactive timeline
 ☄ Interactive timeline built with D3 with pure CSS animations  
 
 ![interactive timeline gif](interactive-timeline.gif)
